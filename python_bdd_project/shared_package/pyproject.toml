@@ -1,4 +1,0 @@
-[tool.poetry.dependencies]
-python = "^3.9"
-shared_package = "1.0.0"
-
